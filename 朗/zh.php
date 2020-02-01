@@ -17,7 +17,7 @@
  * 描述:
  *		中文语言文件
  * 作者：Liran Tal <liran@enginx.com>
- * 汉化作者:	三多 <10644331064@qq.com>
+ * 汉化作者:	三多 <1064331064@qq.com>
  * 适用版本:	0.9.9
  *
  *********************************************************************************************************
@@ -190,7 +190,7 @@ $l['all']['TotalTraffic'] = "总流量";
 $l['all']['Bytes'] = "字节";
 $l['all']['Upload'] = "上传";
 $l['all']['Download'] = "下载";
-$l['all']['Rollback'] = "回滚";
+$l['all']['Rollback'] = "退回";
 $l['all']['Termination'] = "终止";
 $l['all']['NASIPAddress'] = "NAS IP地址";
 $l['all']['NASShortName'] = "NAS简称";
@@ -288,7 +288,7 @@ $l['all']['RadiusPort'] = "Radius端口";
 
 $l['all']['UsernamePrefix'] = "用户前缀";
 
-$l['all']['batchName'] = "批量Id/名称";
+$l['all']['batchName'] = "批量Id名称";
 $l['all']['batchDescription'] = "批量描述";
 
 $l['all']['NumberInstances'] = "创建数量";
